@@ -1,6 +1,7 @@
 | nomefile | data | tipo |
 | --- | --- | --- |
 | [Bolletino-sorveglianza-integrata-COVID-19_09-marzo-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_09-marzo-2020_appendix.pdf) | 09-marzo-2020 | appendice |
+| [Bolletino-sorveglianza-integrata-COVID-19_1-dicembre-2021_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_1-dicembre-2021_appendix.pdf) | https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_1-dicembre-2021_appendix.pdf | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_1-giugno-2021_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_1-giugno-2021_appendix.pdf) | https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_1-giugno-2021_appendix.pdf | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_1-settembre-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_1-settembre-2020_appendix.pdf) | 1-settembre-2020 | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_1-settembre-2021_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_1-settembre-2021_appendix.pdf) | https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_1-settembre-2021_appendix.pdf | appendice |
